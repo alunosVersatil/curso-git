@@ -1,2 +1,2 @@
-# curso-git
+# curso de git/github
 Repositório dos Alunos
